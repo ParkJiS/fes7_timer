@@ -1,0 +1,13 @@
+.timer-container {
+  text-align: center;
+  width: 1920px;
+  height: 1080px;
+  background: radial-gradient(
+    96.74% 276.79% at 3.59% 5.28%,
+    #f0f4ff,
+    #f0f4ff 0%,
+    #a5b6ee,
+    #a5b6ee 100%
+  );
+  background-size: cover;
+}
